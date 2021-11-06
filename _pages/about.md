@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About Me
+title: Home
 redirect_to: https://sambaths.github.io/
 ---
