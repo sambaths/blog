@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About Me
-permalink: https://sambaths.github.io/
+redirect_to: https://sambaths.github.io/
 ---
