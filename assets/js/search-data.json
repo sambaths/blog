@@ -48,12 +48,10 @@
   
 
   
-
-  
   
 
   
-      ,"page8": {
+      ,"page7": {
           "title": "",
           "content": "{“/_pages/about.html”:”https://sambaths.github.io/”} .",
           "url": "https://sambaths.github.io/blog/redirects.json",
@@ -67,7 +65,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sambaths.github.io/blog/robots.txt",
