@@ -10,11 +10,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="This is what I do when I don’t know what to do." />
 <meta property="og:description" content="This is what I do when I don’t know what to do." />
-<link rel="canonical" href="https://sambaths.github.io/blog/about/" />
-<meta property="og:url" content="https://sambaths.github.io/blog/about/" />
+<link rel="canonical" href="https://sambaths.github.io/blog/sambaths.github.io" />
+<meta property="og:url" content="https://sambaths.github.io/blog/sambaths.github.io" />
 <meta property="og:site_name" content="Sambath’s Blog" />
 <script type="application/ld+json">
-{"url":"https://sambaths.github.io/blog/about/","@type":"WebSite","headline":"About Me","name":"Sambath’s Blog","description":"This is what I do when I don’t know what to do.","@context":"https://schema.org"}</script>
+{"url":"https://sambaths.github.io/blog/sambaths.github.io","@type":"WebPage","headline":"About Me","description":"This is what I do when I don’t know what to do.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://sambaths.github.io/blog/feed.xml" title="Sambath's Blog" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
@@ -62,7 +62,7 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a></div>
+        <div class="trigger"><a class="page-link" href="/blog/sambaths.github.io">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -74,15 +74,7 @@ window.onload = wrap_img;
   </header>
 
   <div class="post-content">
-    <p>This website is powered by <strong><a href="https://github.com/fastai/fastpages">fastpages</a></strong> <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>a blogging platform that natively supports Jupyter notebooks in addition to other formats. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+    
 
   </div>
 
